@@ -1,4 +1,6 @@
-1. Product Categories with Most 1-Star Reviews in Canada
+# LLM Analysis
+
+## 1. Product Categories with Most 1-Star Reviews in Canada
 The only product category with multiple 1-star reviews in Canada is:
 
 Prom Dresses: 2 reviews
@@ -6,7 +8,7 @@ Prom Dresses: 2 reviews
 Other categories may exist with 1-star reviews, but only this one appears more than once in the dataset.
 <img width="1968" height="1168" alt="image" src="https://github.com/user-attachments/assets/5ba5f070-4118-401f-b438-bb6a2b336245" />
 
-2. Correlation Between Order Value and Rating
+## 2. Correlation Between Order Value and Rating
 Correlation coefficient (r): -0.028
 
 P-value: 0.789
@@ -19,7 +21,7 @@ The correlation is very close to zero and not statistically significant (p > 0.0
 This means order value doesn't impact how customers rate the product in this dataset.
 <img width="1568" height="1168" alt="image" src="https://github.com/user-attachments/assets/ef9975dc-0057-4975-b0f2-5f5e4cc86b30" />
 
-3.summarize the top 5 complaints and top 5 compliments across all reviews
+## 3.summarize the top 5 complaints and top 5 compliments across all reviews
 
   The rating distribution is as follows:
 | Rating   | Count |
@@ -65,7 +67,7 @@ I’ll perform basic keyword frequency analysis for both.
 | 5    | **financial** | 2         |
 
 
-4. fulfillment statuses with most negative feedback
+## 4. fulfillment statuses with most negative feedback
 
 Fulfillment Status
 Delaye       6
