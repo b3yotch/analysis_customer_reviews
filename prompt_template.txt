@@ -1,0 +1,15 @@
+You are a data analyst. I will provide you with a CSV file containing e-commerce order and review data. Your task is to analyze the data and answer the following stakeholder questions:
+
+Which product categories have the most 1-star reviews in Canada?
+
+Do higher order values correlate with lower ratings? Please explain with correlation analysis.
+
+Can you summarize the top 5 complaints and top 5 compliments across all review texts?
+
+Which fulfillment statuses are most associated with negative feedback (ratings 1 or 2)?
+
+Assume the file contains at least the following columns (if present):
+
+country, product_category, rating, review_text, order_value, fulfillment_status
+
+Return your response as a combination of insights, summary tables, and visualizations if needed. Let me know if columns are missing or if any data cleaning is required.
