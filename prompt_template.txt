@@ -10,6 +10,6 @@ Which fulfillment statuses are most associated with negative feedback (ratings 1
 
 Assume the file contains at least the following columns (if present):
 
-country, product_category, rating, review_text, order_value, fulfillment_status
+Product Name, Product Category, rating, Review Content, Order Value, Fulfillment Status
 
 Return your response as a combination of insights, summary tables, and visualizations if needed. Let me know if columns are missing or if any data cleaning is required.
